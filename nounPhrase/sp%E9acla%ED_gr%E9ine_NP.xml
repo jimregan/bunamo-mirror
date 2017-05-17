@@ -1,4 +1,4 @@
-<nounPhrase default="spéaclaí gréine" disambig="" isDefinite="0">
+<nounPhrase default="spéaclaí gréine" disambig="" isDefinite="0" forceNominative="1">
   <plNom default="spéaclaí gréine" />
   <plGen default="spéaclaí gréine" />
   <plNomArt default="na spéaclaí gréine" />

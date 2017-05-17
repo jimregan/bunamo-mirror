@@ -1,6 +1,6 @@
 ﻿<?xml version='1.0' encoding='utf-8'?>
 <verb default="gearán" disambig="">
-  <verbalNoun default="gearánadh" />
+  <verbalNoun default="gearán" />
   <verbalAdjective default="gearánta" />
   <tenseForm default="gearán" tense="Past" dependency="Indep" person="Base" />
   <tenseForm default="gearánamar" tense="Past" dependency="Indep" person="Pl1" />

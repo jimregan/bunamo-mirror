@@ -32,10 +32,10 @@
   <tenseForm default="bristear" tense="PresCont" dependency="Dep" person="Auto" />
   <tenseForm default="brisfidh" tense="Fut" dependency="Indep" person="Base" />
   <tenseForm default="brisfimid" tense="Fut" dependency="Indep" person="Pl1" />
-  <tenseForm default="bristear" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="brisfear" tense="Fut" dependency="Indep" person="Auto" />
   <tenseForm default="brisfidh" tense="Fut" dependency="Dep" person="Base" />
   <tenseForm default="brisfimid" tense="Fut" dependency="Dep" person="Pl1" />
-  <tenseForm default="bristear" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="brisfear" tense="Fut" dependency="Dep" person="Auto" />
   <tenseForm default="brisfeadh" tense="Cond" dependency="Indep" person="Base" />
   <tenseForm default="brisfinn" tense="Cond" dependency="Indep" person="Sg1" />
   <tenseForm default="brisfeá" tense="Cond" dependency="Indep" person="Sg2" />

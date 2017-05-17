@@ -2,5 +2,5 @@
   <sgNom default="beangú" gender="masc" />
   <sgGen default="beangaithe" gender="masc" />
   <plNom default="beanguithe" />
-  <plNom default="beanguithe" strength="strong" />
+  <plGen default="beanguithe" strength="strong" />
 </noun>

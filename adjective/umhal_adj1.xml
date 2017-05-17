@@ -1,7 +1,7 @@
 ﻿<?xml version='1.0' encoding='utf-8'?>
 <adjective default="umhal" declension="1" disambig="" isPre="False">
   <sgNom default="umhal" />
-  <sgGenMasc default="umhil" />
+  <sgGenMasc default="umhail" />
   <sgGenFem default="umhaile" />
   <plNom default="umhla" />
   <graded default="umhaile" />

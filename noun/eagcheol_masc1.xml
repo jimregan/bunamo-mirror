@@ -1,7 +1,0 @@
-﻿<?xml version='1.0' encoding='utf-8'?>
-<noun default="eagcheol" declension="1" disambig="" isProper="0" isDefinite="0" allowArticledGenitive="0">
-  <sgNom default="eagcheol" gender="masc" />
-  <sgGen default="eagcheoil" gender="masc" />
-  <plNom default="eagcheolta" />
-  <plGen default="eagcheolta" strength="strong" />
-</noun>

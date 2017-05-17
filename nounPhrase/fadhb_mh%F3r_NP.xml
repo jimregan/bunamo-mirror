@@ -1,6 +1,6 @@
-<nounPhrase default="fadhb mhór" disambig="" isDefinite="0">
+<nounPhrase default="fadhb mhór" disambig="" isDefinite="0" forceNominative="1">
   <sgNom default="fadhb mhór" gender="fem" />
-  <sgGen default="fadhb mhór" gender="fem" />
+  <sgGen default="faidhbe móire" gender="fem" />
   <sgNomArt default="an fhadhb mhór" gender="fem" />
   <sgGenArt default="na faidhbe móire" gender="fem" />
   <plNom default="fadhbanna móra" />
