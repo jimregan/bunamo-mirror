@@ -1,0 +1,10 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<noun default="alt" declension="1" disambig="" isProper="0" isDefinite="0" allowArticledGenitive="0">
+  <sgNom default="alt" gender="masc" />
+  <sgGen default="ailt" gender="masc" />
+  <sgVoc default="ailt" gender="masc" />
+  <sgDat default="alt" gender="masc" />
+  <plNom default="ailt" />
+  <plGen default="alt" strength="weak" />
+  <plVoc default="alta" />
+</noun>

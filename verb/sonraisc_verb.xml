@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<verb default="sonraisc" disambig="">
+  <verbalNoun default="sonrasc" />
+  <verbalAdjective default="sonraiscthe" />
+  <tenseForm default="sonraisc" tense="Past" dependency="Indep" person="Base" />
+  <tenseForm default="sonraisceamar" tense="Past" dependency="Indep" person="Pl1" />
+  <tenseForm default="sonraisceadar" tense="Past" dependency="Indep" person="Pl3" />
+  <tenseForm default="sonraisceadh" tense="Past" dependency="Indep" person="Auto" />
+  <tenseForm default="sonraisc" tense="Past" dependency="Dep" person="Base" />
+  <tenseForm default="sonraisceamar" tense="Past" dependency="Dep" person="Pl1" />
+  <tenseForm default="sonraisceadar" tense="Past" dependency="Dep" person="Pl3" />
+  <tenseForm default="sonraisceadh" tense="Past" dependency="Dep" person="Auto" />
+  <tenseForm default="sonraisceadh" tense="PastCont" dependency="Indep" person="Base" />
+  <tenseForm default="sonraiscinn" tense="PastCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="sonraiscteá" tense="PastCont" dependency="Indep" person="Sg2" />
+  <tenseForm default="sonraiscimis" tense="PastCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="sonraiscidís" tense="PastCont" dependency="Indep" person="Pl3" />
+  <tenseForm default="sonraisctí" tense="PastCont" dependency="Indep" person="Auto" />
+  <tenseForm default="sonraisceadh" tense="PastCont" dependency="Dep" person="Base" />
+  <tenseForm default="sonraiscinn" tense="PastCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="sonraiscteá" tense="PastCont" dependency="Dep" person="Sg2" />
+  <tenseForm default="sonraiscimis" tense="PastCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="sonraiscidís" tense="PastCont" dependency="Dep" person="Pl3" />
+  <tenseForm default="sonraisctí" tense="PastCont" dependency="Dep" person="Auto" />
+  <tenseForm default="sonraisceann" tense="PresCont" dependency="Indep" person="Base" />
+  <tenseForm default="sonraiscim" tense="PresCont" dependency="Indep" person="Sg1" />
+  <tenseForm default="sonraiscimid" tense="PresCont" dependency="Indep" person="Pl1" />
+  <tenseForm default="sonraisctear" tense="PresCont" dependency="Indep" person="Auto" />
+  <tenseForm default="sonraisceann" tense="PresCont" dependency="Dep" person="Base" />
+  <tenseForm default="sonraiscim" tense="PresCont" dependency="Dep" person="Sg1" />
+  <tenseForm default="sonraiscimid" tense="PresCont" dependency="Dep" person="Pl1" />
+  <tenseForm default="sonraisctear" tense="PresCont" dependency="Dep" person="Auto" />
+  <tenseForm default="sonraiscfidh" tense="Fut" dependency="Indep" person="Base" />
+  <tenseForm default="sonraiscfimid" tense="Fut" dependency="Indep" person="Pl1" />
+  <tenseForm default="sonraiscfear" tense="Fut" dependency="Indep" person="Auto" />
+  <tenseForm default="sonraiscfidh" tense="Fut" dependency="Dep" person="Base" />
+  <tenseForm default="sonraiscfimid" tense="Fut" dependency="Dep" person="Pl1" />
+  <tenseForm default="sonraiscfear" tense="Fut" dependency="Dep" person="Auto" />
+  <tenseForm default="sonraiscfeadh" tense="Cond" dependency="Indep" person="Base" />
+  <tenseForm default="sonraiscfinn" tense="Cond" dependency="Indep" person="Sg1" />
+  <tenseForm default="sonraiscfeá" tense="Cond" dependency="Indep" person="Sg2" />
+  <tenseForm default="sonraiscfimis" tense="Cond" dependency="Indep" person="Pl1" />
+  <tenseForm default="sonraiscfidís" tense="Cond" dependency="Indep" person="Pl3" />
+  <tenseForm default="sonraiscfí" tense="Cond" dependency="Indep" person="Auto" />
+  <tenseForm default="sonraiscfeadh" tense="Cond" dependency="Dep" person="Base" />
+  <tenseForm default="sonraiscfinn" tense="Cond" dependency="Dep" person="Sg1" />
+  <tenseForm default="sonraiscfeá" tense="Cond" dependency="Dep" person="Sg2" />
+  <tenseForm default="sonraiscfimis" tense="Cond" dependency="Dep" person="Pl1" />
+  <tenseForm default="sonraiscfidís" tense="Cond" dependency="Dep" person="Pl3" />
+  <tenseForm default="sonraiscfí" tense="Cond" dependency="Dep" person="Auto" />
+  <moodForm default="sonraisceadh" mood="Imper" person="Base" />
+  <moodForm default="sonraiscim" mood="Imper" person="Sg1" />
+  <moodForm default="sonraisc" mood="Imper" person="Sg2" />
+  <moodForm default="sonraiscimis" mood="Imper" person="Pl1" />
+  <moodForm default="sonraiscigí" mood="Imper" person="Pl2" />
+  <moodForm default="sonraiscidís" mood="Imper" person="Pl3" />
+  <moodForm default="sonraisctear" mood="Imper" person="Auto" />
+  <moodForm default="sonraisce" mood="Subj" person="Base" />
+  <moodForm default="sonraiscimid" mood="Subj" person="Pl1" />
+  <moodForm default="sonraisctear" mood="Subj" person="Auto" />
+</verb>

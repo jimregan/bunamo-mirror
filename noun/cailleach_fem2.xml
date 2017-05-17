@@ -1,0 +1,10 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<noun default="cailleach" declension="2" disambig="" isProper="0" isDefinite="0" allowArticledGenitive="0">
+  <sgNom default="cailleach" gender="fem" />
+  <sgGen default="caillí" gender="fem" />
+  <sgVoc default="cailleach" gender="fem" />
+  <sgDat default="cailleach" gender="fem" />
+  <plNom default="cailleacha" />
+  <plGen default="cailleach" strength="weak" />
+  <plVoc default="cailleacha" />
+</noun>

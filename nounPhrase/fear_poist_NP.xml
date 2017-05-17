@@ -1,0 +1,10 @@
+<nounPhrase default="fear poist" disambig="" isDefinite="0">
+  <sgNom default="fear poist" gender="masc" />
+  <sgGen default="fear poist" gender="masc" />
+  <sgNomArt default="an fear poist" gender="masc" />
+  <sgGenArt default="an fhir phoist" gender="masc" />
+  <plNom default="fir phoist" />
+  <plGen default="fir phoist" />
+  <plNomArt default="na fir phoist" />
+  <plGenArt default="na bhfear poist" />
+</nounPhrase>

@@ -1,0 +1,10 @@
+<nounPhrase default="sailéad torthaí" disambig="" isDefinite="0">
+  <sgNom default="sailéad torthaí" gender="masc" />
+  <sgGen default="sailéad torthaí" gender="masc" />
+  <sgNomArt default="an sailéad torthaí" gender="masc" />
+  <sgGenArt default="an tsailéid thorthaí" gender="masc" />
+  <plNom default="sailéid thorthaí" />
+  <plGen default="sailéid thorthaí" />
+  <plNomArt default="na sailéid thorthaí" />
+  <plGenArt default="na sailéad torthaí" />
+</nounPhrase>

@@ -1,0 +1,9 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<noun default="cos" declension="2" disambig="" isProper="0" isDefinite="0" allowArticledGenitive="0">
+  <sgNom default="cos" gender="fem" />
+  <sgGen default="coise" gender="fem" />
+  <sgDat default="cos" gender="fem" />
+  <sgDat default="cois" gender="fem" />
+  <plNom default="cosa" />
+  <plGen default="cos" strength="weak" />
+</noun>
